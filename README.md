@@ -550,10 +550,12 @@ Run the project. You should now see two buttons on the screen as shown in figure
 
 ![Multi-image buttons][1]
 
-### Credit
+###Credits
+[Harold Serrano](http://www.haroldserrano.com) Author of this repository and post
 
+###Questions
+If you have any questions about this repository, feel free to contact me at http://www.haroldserrano.com/contact/
 
-### Questions?
 
 
 [0]: http://www.haroldserrano.com/blog/how-to-apply-textures-to-a-character-in-ios
