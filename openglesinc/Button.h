@@ -3,7 +3,7 @@
 //  openglesinc
 //
 //  Created by Harold Serrano on 3/23/15.
-//  Copyright (c) 2015 www.roldie.com. All rights reserved.
+//  Copyright (c) 2015 www.haroldserrano.com. All rights reserved.
 //
 
 #ifndef __openglesinc__Button__
